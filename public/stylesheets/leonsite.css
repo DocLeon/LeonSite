@@ -10,14 +10,9 @@ h1{
   border-bottom: 3px solid #005ca0;
 }
 h2{
-  color: #005ca0;
   font-size: 1.5em;
-  margin-left:5%
 }
-p{
+h2, p, iframe{
   color: #005ca0;
-  margin-left:5%;
-}
-iframe{
-  margin-left:5%;
+  margin-left:5%
 }
